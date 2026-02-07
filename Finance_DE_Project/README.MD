@@ -1,0 +1,1 @@
+aws ecr create-repository-name stock-data-ingestion
